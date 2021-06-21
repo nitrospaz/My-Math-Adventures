@@ -1,4 +1,4 @@
-# My-Math-Adventures
+# Python-Math-Adventures
 
 My code work with math using the Python 'IDLE' IDE for normal coding and the Processing IDE for graphics intensive applications.
 
